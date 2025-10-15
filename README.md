@@ -1,11 +1,17 @@
-# Welcome
-This is the repository used by the VRChat group [Rindo Cult](https://vrchat.com/home/group/grp_c04c75e4-f49d-482a-a8ac-a43cb6aecdbd).
+# ~~Welcome~~
+~~This is the repository used by the VRChat group [Rindo Cult](https://vrchat.com/home/group/grp_c04c75e4-f49d-482a-a8ac-a43cb6aecdbd).~~
 
-The images seen within World 2.0 are loaded from this repository, specifically from the `atlas` subfolder.
+~~The images seen within World 2.0 are loaded from this repository, specifically from the `atlas` subfolder.~~
 
-We also handle the funny poster wall and graffiti booster wall from here.
+~~We also handle the funny poster wall and graffiti booster wall from here.~~
 
-# Website Stuff
-We now have a [website](https://rindo-cult.github.io/RindoCult.github.io/) (because Azu tends to overcomplicate everything).
+# ~~Website Stuff~~
+~~We now have a [website](https://rindo-cult.github.io/RindoCult.github.io/) (because Azu tends to overcomplicate everything).~~
 
-More content will be added to the website eventually—but it’s not a priority.
+~~More content will be added to the website eventually—but it’s not a priority.~~
+
+# M O W
+RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. RINDO RAVE. 
+
+-# note to self: Don't forget to upload all the mow photos and replace old photos... I will 100% forget this...
+-# mow...
